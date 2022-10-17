@@ -1,0 +1,15 @@
+const Map<String, String> en = {
+  "GENERAL": "GENERAL",
+  "Dark Mode": "Dark Mode",
+  "Language": "Language",
+  "Logout": "Logout",
+  "Categories": "Categories",
+  "Find Your": "Find Your",
+  "Inspiration": "Inspiration",
+  "Search with name & price": "Search with name & price",
+  "Shop anything online": "Shop anything online",
+  "Favorites": "Favorites",
+  "Settings": "Settings",
+  "Add to Cart": "Add to Cart",
+  "Price": "Price",
+};
